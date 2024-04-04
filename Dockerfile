@@ -17,6 +17,7 @@ RUN curl -sSL https://packages.sury.org/php/README.txt | bash -x \
         php7.4-curl \
         php7.4-dom \
         php7.4-fileinfo \
+        php7.4-fpm \
         php7.4-ftp \
         php7.4-iconv \
         php7.4-imagick \
